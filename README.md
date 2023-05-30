@@ -5,7 +5,7 @@
 
 **Contact me**
 
-<a href="mailto:fedir.tat@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-black?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+<a href="mailto:fedir.tat@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail fedir.tat@gmail.com-black?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
 <a href="https://www.linkedin.com/in/fedir-tatulich-6261ba224/" target="_blank"><img src="https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
 <a href="https://t.me/ftatulich" target="_blank"><img src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=26A5E4" /></a>
 
